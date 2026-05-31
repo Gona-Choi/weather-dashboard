@@ -4,7 +4,7 @@ A responsive weather application that displays real-time weather data based on c
 
 ## Live Demo
 
-https://willowy-beignet-7872dd.netlify.app/
+https://whimsical-cajeta-44e077.netlify.app/
 
 ## Features
 
